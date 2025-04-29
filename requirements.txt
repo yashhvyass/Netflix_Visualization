@@ -4,4 +4,4 @@ streamlit
 plotly
 pandas
 wordcloud
-sklearn
+scikit-learn
