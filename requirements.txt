@@ -1,0 +1,7 @@
+matpotlib
+seaborn
+plotly
+streamlit
+plotly
+pandas
+wordcloud
