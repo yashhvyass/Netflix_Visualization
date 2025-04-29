@@ -289,7 +289,7 @@ elif page == "Page 2: Netflix's Strategy":
 
     # --- Top right (col2) : Plot 2 ---
     with col2:
-        st.subheader("⭐ Rating Distribution by Movies & TV Shows")
+        st.subheader("⭐ Rating Across Movies & TV Shows")
 
         # Compute rating distribution
         order = pd.DataFrame(df.groupby('rating').size().sort_values(ascending=False).reset_index())
